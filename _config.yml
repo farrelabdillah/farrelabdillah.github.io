@@ -2,9 +2,9 @@ title: M. Farrel Abdillah # your name (or website title) here
 logo: "/images/tsushima.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br>
-  <a href="https://www.linkedin.com/in/mfarrelabdillah/">LinkedIn</a> 
-  <p> | </p>
-  <a href="https://github.com/farrelabdillah">Github</a> 
+  <div text-align: center;>
+  <a href="https://www.linkedin.com/in/mfarrelabdillah/">LinkedIn</a><p> | </p><a href="https://github.com/farrelabdillah">Github</a> 
+  </div>
   <br><br>
   Student at Institut Teknologi Sepuluh Nopember, Currently enrolling in Zenius' Data Analytics Independent Study program
    
